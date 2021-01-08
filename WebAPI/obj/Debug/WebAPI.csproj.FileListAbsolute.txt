@@ -1,0 +1,3 @@
+C:\Users\karrit\Desktop\24HR Project API\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\karrit\Desktop\1150\24HR Project API\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\karrit\Desktop\1150\24HR Project API\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
